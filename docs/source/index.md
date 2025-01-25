@@ -11,3 +11,4 @@ criminal-code
 constitution
 law-on-closed-and-protected-areas
 administrative-code
+law-on-LSPD
