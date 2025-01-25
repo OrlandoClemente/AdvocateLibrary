@@ -6,9 +6,9 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'AdvocateLibrary'
-copyright = '2025, Orlando Castello'
-author = 'Orlando Castello'
+project = 'Advocate Library'
+copyright = '2025, Колегія адвокатів'
+author = 'Колегія адвокатів'
 release = '1.0'
 
 # -- General configuration ---------------------------------------------------
@@ -22,7 +22,7 @@ templates_path = ['_templates']
 exclude_patterns = []
 
 language = 'uk_UA'
-
+myst_heading_anchors = 2
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
