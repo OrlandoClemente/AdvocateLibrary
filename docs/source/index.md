@@ -5,4 +5,5 @@
 :maxdepth: 2
 
 introduction
-procedural_code
+procedural-code
+law-on-bar-association
